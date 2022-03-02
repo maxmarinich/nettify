@@ -1,0 +1,24 @@
+{
+  "name": "nettify",
+  "version": "0.0.1",
+  "description": "JavaScript library for testing network bandwidth",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmarinich/nettify.git"
+  },
+  "keywords": [
+    "network",
+    "bandwidth",
+    "speed-test"
+  ],
+  "author": "maxmarinich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxmarinich/nettify/issues"
+  },
+  "homepage": "https://github.com/maxmarinich/nettify#readme"
+}

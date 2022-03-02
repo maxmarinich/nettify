@@ -1,0 +1,18 @@
+node_modules/
+.env.local
+.env.*.local
+dist
+build
+deploy
+static
+.idea/
+.DS_Store
+tests
+credentials
+*.js
+
+#Hardhat files
+cache
+artifacts
+
+secrets.json
